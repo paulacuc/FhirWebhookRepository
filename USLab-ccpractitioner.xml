@@ -11,8 +11,7 @@
       <value value="http://hl7.org"/>
     </telecom>
   </contact>
-  <description value="Non-ordering practitioner, to whom the orderer instructs the recipient to send the results
-   of the request."/>
+  <description value="Description"/>
   <status value="draft"/>
   <date value="2014-11-17"/>
   <type value="extension"/>
