@@ -35,7 +35,7 @@
       <path value="Extension.id"/>
       <representation value="xmlAttr"/>
       <short value="xml:id (or equivalent in JSON)"/>
-      <definition value="unique id for the element within a resource (for internal references)."/>
+      <definition value="unique id for the eleent within a resource (for internal references)."/>
       <min value="0"/>
       <max value="1"/>
       <type>
